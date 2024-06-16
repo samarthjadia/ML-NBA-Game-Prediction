@@ -16,3 +16,6 @@ Link to Dataset: https://www.kaggle.com/datasets/lukedip/nba-boxscore-dataset
 3. If you would like to run the whole notebook, Click Restart Kernal and Run All (Will take about 10 minutes). (NOTE: Hyperparameter Tuning is commented out. This section of the code is very computationally expensive and took about 40 minutes to run on my personal device with 16 cores. If you would like to run it, just uncomment it and run it.)
 
 * I left the python notebook in a state that is pretty clean and displays the major results in the bottom sections.
+
+Source Code: NBA-ML_NEXT-GAME-PREDICTION.ipynb
+Research Paper: Project_Writeup.pdf (If file doesn't render on your browser, try using chrome. If that doesn't work, you have the option to download the file and view it. Size = 618Kb)
