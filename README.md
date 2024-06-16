@@ -17,5 +17,5 @@ Link to Dataset: https://www.kaggle.com/datasets/lukedip/nba-boxscore-dataset
 
 * I left the python notebook in a state that is pretty clean and displays the major results in the bottom sections.
 
-Source Code: NBA-ML_NEXT-GAME-PREDICTION.ipynb
-Research Paper: Project_Writeup.pdf (If file doesn't render on your browser, try using chrome. If that doesn't work, you have the option to download the file and view it. Size = 618Kb)
+* Source Code: NBA-ML_NEXT-GAME-PREDICTION.ipynb
+* Research Paper: Project_Writeup.pdf (If file doesn't render on your browser, try using chrome. If that doesn't work, you have the option to download the file and view it. Size = 618Kb)
